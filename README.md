@@ -6,9 +6,9 @@ Simple script to install thc-hydra in termux
 
 <pre>
 <code>
-pkg update && pkg upgrade -y && pkg i git -y
-git clone https://github.com/grayhatzone/THydra.git
-cd Thydra && chmod +x * && ./install.sh
+pkg update && pkg upgrade -y && pkg i wget -y
+wget https://raw.githubusercontent.com/GrayHatZone/THydra/main/install.sh -O thydra
+chmod +x thydra && ./thydra
 </code>
 </pre>
 
