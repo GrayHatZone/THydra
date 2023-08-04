@@ -1,5 +1,7 @@
 # THydra
 
+<img src="hydra-termux.jpg" />
+
 Simple script to install thc-hydra in termux
 
 # Installation
@@ -14,5 +16,5 @@ chmod +x thydra && ./thydra
 
 # Join us
 
-<p align="center"><a href="https://t.me/GrayHatZone"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=150 height=150 /><br/><br/>Telegram Channel</a></p>
+<p align="center"><a href="https://t.me/d4rk_cl0ud"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=150 height=150 /><br/><br/>Telegram Channel</a></p>
 
