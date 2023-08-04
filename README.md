@@ -6,6 +6,7 @@ Simple script to install thc-hydra in termux
 
 # Installation
 
+Copy and Paste this code in termux
 <pre>
 <code>
 pkg update && pkg upgrade -y && pkg i wget -y
